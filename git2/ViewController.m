@@ -22,6 +22,8 @@
     
     NSLog(@"new_label");
     
+    NSLog(@"do wrzucenia do github");
+    
 }
 
 
