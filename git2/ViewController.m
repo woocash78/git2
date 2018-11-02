@@ -33,6 +33,8 @@
     
     NSLog(@"zmiana 5");
     
+    NSLog(@"zmiana 6");
+    
 }
 
 
