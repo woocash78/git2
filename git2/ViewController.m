@@ -29,6 +29,8 @@
     
     NSLog(@"zmiana 3");
     
+    NSLog(@"zmiana 4");
+    
 }
 
 
