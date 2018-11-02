@@ -23,6 +23,8 @@
     
     NSLog(@"do wrzucenia do github");
     
+    NSLog(@"zmiana wprowadzona w github i zrobiony pull");
+    
 }
 
 
