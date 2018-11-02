@@ -20,6 +20,8 @@
     
     NSLog(@"Pierwszy commit");
     
+    NSLog(@"new_label");
+    
 }
 
 
