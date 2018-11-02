@@ -27,6 +27,8 @@
 
     NSLog(@"zmiana 2 wprowadzona w github");
     
+    NSLog(@"zmiana 3");
+    
 }
 
 
