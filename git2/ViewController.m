@@ -19,11 +19,13 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     
-    NSLog(@"new_label");
+    //NSLog(@"new_label");
     
-    NSLog(@"do wrzucenia do github");
+    //NSLog(@"do wrzucenia do github");
     
-    NSLog(@"zmiana wprowadzona w github i zrobiony pull");
+    //NSLog(@"zmiana wprowadzona w github i zrobiony pull");
+
+    NSLog(@"zmiana 2 wprowadzona w github");
     
 }
 
